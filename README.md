@@ -1,6 +1,6 @@
 # NBAStoreApp-classproject
   
-  This is an individual class project that I created in my former college in June 2018. I formatted my laptop and so I lost my code. I had to go to my Professor (in October 2018) to get the printed version I submitted, hence the scanned pdf format in the repository.
+  This is an individual class project that I created in my former college in June 2018. I formatted my laptop and so I lost my code. I had to go to the Professor (in October 2018) to get the printed version I submitted in class, hence the scanned pdf format in the repository.
   
 ## User Stories
 
